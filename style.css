@@ -5,7 +5,9 @@
     width: 50%;
     margin: 0px auto;
     float: none;
+    
 }
+
 
 .info{
     display: flex;
@@ -76,6 +78,8 @@ a, a:hover {
 .image__overlay:hover > *{
     transform: translateY(0px);
 }
+
+
 
 
 .image__overlay:hover{
